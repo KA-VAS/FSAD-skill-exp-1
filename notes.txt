@@ -1,1 +1,1 @@
-This is a Git Version Control project for FSAD subject.
+This is an updated Git Version Control project for FSAD subject.
